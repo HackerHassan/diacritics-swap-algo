@@ -1,5 +1,5 @@
 #blank file
-docx
+python-docx 
 streamlit
 numpy
 pandas
