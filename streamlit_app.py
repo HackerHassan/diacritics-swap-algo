@@ -30,7 +30,9 @@ with col2:
     st.title('Diacritics')
 
 company_name = 'Nur Publications'
-
+st.markdown("""---""")
+st.header('How it works')
+st.write("This is the sample of the script that will be used to replace words with diacritics. How you use it is as follows: `1.` by first copying and pasting the sample inputs from the dropdowns under each text box `2.` running the script by pressing the button on the bottom of the page ")
 
 st.markdown("""---""")
 st.header('Inputs')
@@ -96,7 +98,7 @@ if st.button('Run Script'):
 
 
 # -----------------------------------------------
-st.markdown("""---""")
+# st.markdown("""---""")
 
 # expander = st.expander("FAQ")
 # expander.write(
