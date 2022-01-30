@@ -32,7 +32,13 @@ with col2:
 company_name = 'Nur Publications'
 st.markdown("""---""")
 st.header('How it works')
-st.write("This is the sample of the script that will be used to replace words with diacritics. How you use it is as follows: `1.` by first copying and pasting the sample inputs from the dropdowns under each text box `2.` running the script by pressing the button on the bottom of the page ")
+st.write("This is the sample of the script that will be used to replace words with diacritics.")
+st.write("How you use it is as follows:")
+st.write("`1.` by first copying and pasting the sample inputs from the dropdowns under each text box")
+st.write("`2.` running the script by pressing the button on the bottom of the page ")
+
+st.write()
+st.write("the purpose of this page is to find edge cases that have not been accounted for and address them in the upcoming iterations. The more mistakes that are found, the better 😁")
 
 st.markdown("""---""")
 st.header('Inputs')
