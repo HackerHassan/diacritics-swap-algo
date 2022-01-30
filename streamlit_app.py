@@ -8,7 +8,6 @@ import ast
 import functions
 
 import docx
-from spellchecker import SpellChecker
 import unicodedata
 import re
 import pandas as pd
